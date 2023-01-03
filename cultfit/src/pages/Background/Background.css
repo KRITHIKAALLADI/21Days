@@ -1,0 +1,64 @@
+    /* .img{
+        background-image: linear-gradient(rgba(0, 0, 0, 0.216),rgba(128, 128, 128, 0.044));  
+      width:1500px;
+      height:30px;
+      background-size:100px; 
+  }  */
+  body { 
+    background-image: url(https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_1600,q_auto:eco,dpr_2,f_auto,fl_progressive/image/vm/7cc6e153-78ff-4b1c-b32e-b8bd75719bec.png);
+    background-size: cover;
+  } 
+  .one{
+      color: white;
+  } 
+
+  /* body{
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+  } */
+
+  /* .flex-row {
+      display: flex;
+      flex: 1;
+      flex-direction: row;
+      -webkit-flex-wrap: wrap;
+      flex-wrap: wrap;
+    } */
+    
+    .flex-col {
+      margin: 5px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex: 1;
+      flex-direction: column;
+      padding: 10px;
+      box-sizing: border-box;
+      width:20px;
+      height:200px;
+      border: 1px solid grey;
+      border-radius: 30px;
+    
+
+    }
+    
+    .double {
+      display: flex;
+      flex: 1;
+      flex-direction: row;
+      padding: 0px;
+      margin:380px 220px 0 200px;
+      color: grey;
+      /* color: white; */
+      border-radius: 50px;
+
+      
+
+    }
+  .flex-col h3{
+      color: white;
+      font-weight:thin;
+  }
+    

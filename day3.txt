@@ -1,0 +1,3 @@
+Installed React icons, libraries
+props
+working on Linkedin clone

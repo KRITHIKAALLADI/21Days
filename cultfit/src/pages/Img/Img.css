@@ -1,0 +1,19 @@
+    .videos{
+        flex:1;
+        padding: 40px 20px;
+        padding-bottom: 0;
+        background-color: white;
+        
+    }
+    .videos h2{
+        color: black;
+        margin-bottom: 20px;
+        margin-left: 5px;
+    }
+    .videos__videoall{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        background-color: white;
+
+    }

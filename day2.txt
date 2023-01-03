@@ -1,0 +1,8 @@
+
+created React app
+Folder structure
+components
+    Functional components
+    class components
+
+
