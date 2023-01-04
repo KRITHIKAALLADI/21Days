@@ -1,6 +1,7 @@
 import React from 'react'
 import './Img.css'
 import Images1 from '../Img1/Images1'
+// import './Img.scss'
 const Img = () => {
   return (
     <div className='videos'>

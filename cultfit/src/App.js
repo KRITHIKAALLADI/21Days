@@ -6,6 +6,7 @@ import Header from './pages/Header';
 //  import Home from './pages/Home';
 import Img from './pages/Img/Img';
 import Background from './pages/Background'
+import Sportheader from './pages/Sportheader/Sportheader'
 
 //  import './App.css'
 
@@ -20,12 +21,14 @@ function App() {
       {/* <Home/> */}
     
       {/* <Body/>  */}
-    
+  
       <Routes>
       <Route path='/' element={<Background/>}/> 
       <Route path='/Background' element={<Background/>}/>
       {/* <Route path='/Images' element={<App1/>}/> */}
       <Route path='/Img' element= {<Img/>}/>
+      <Route path='/Sportheader' element= {<Sportheader/>}/>
+
     </Routes>
     </BrowserRouter>
      </div>

@@ -1,8 +1,9 @@
 
 
  img{
-    height: 50px;
-    width:150px;
+    height: 45px;
+    width:130px;
+    margin-left: 10px;
 }
 .name{
     display:flex; 
@@ -43,9 +44,13 @@
 
 }
 .loc{
-    margin-top: -40px;
-    color:white;
+    margin-top: -30px;
     display: flex;
+    color: white;
+}
+.par p{
+    margin-top: -30px;
+    color: white;
 }
 .loca{
     margin-top: -20px;

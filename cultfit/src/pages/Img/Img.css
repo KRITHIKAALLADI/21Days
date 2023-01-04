@@ -1,4 +1,4 @@
-    .videos{
+     .videos{
         flex:1;
         padding: 40px 20px;
         padding-bottom: 0;
@@ -12,8 +12,16 @@
     }
     .videos__videoall{
         display: flex;
+        flex-direction: row; 
         flex-wrap: wrap;
-        justify-content: space-between;
-        background-color: white;
+        justify-content:left;
+        align-items:flex-start;
+       
+     
+        
 
     }
+
+    /* .videocard{
+        margin: 0px 60px;
+    }  */

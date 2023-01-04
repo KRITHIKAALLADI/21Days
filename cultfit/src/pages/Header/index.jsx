@@ -19,11 +19,13 @@ const Header = () => {
           <Link to="/Background" className="nav-item">FITNESS</Link>
           <Link to="/Img" className="nav-item">CARE</Link>
           <Link to="/MIND" className="nav-item">MIND</Link>
-          <Link to="/STORE" className="nav-item">STORE</Link>
+          <Link to="/Sportheader" className="nav-item">STORE</Link>
         </div>
         <div className="logos">
-          <div className='loc'>
+          <div className='par'>
             <p>HYDER...</p>
+            </div>
+            <div className='loc'>
             <GoLocation size="1.5em" />
           </div>
           <div className='get'>
