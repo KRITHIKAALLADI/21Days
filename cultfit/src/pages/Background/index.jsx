@@ -11,29 +11,29 @@ const Background = () => {
        {/* <div class="flex-row"> */}
     <div class="double">
     <div class="flex-col">
-        <h3>
+        <h3 className='one'>
           CULTPASS
         </h3>
         <h1 style={{color:"goldenrod"}}>ELITE</h1>
-        <h3>
+        <h3 className='two'>
           Starting at ₹948/month
         </h3>
       </div>
       <div class="flex-col">
-      <h3>
+      <h3 className='one'>
           CULTPASS
         </h3>
         <h1 style={{color:"silver"}}>PRO</h1>
-        <h3>
+        <h3 className='two'>
           Starting at ₹737/month
         </h3>
       </div>
     <div class="flex-col">
-    <h3>
+    <h3 className='one'>
           CULTPASS
         </h3>
         <h1 style={{color:"magenta"}}>HOME</h1>
-        <h3>
+        <h3 className='two'>
           Starting at ₹96/month
         </h3>
       </div>

@@ -1,18 +1,61 @@
-.lib{ 
+
+.lib{
     display: flex;
-    flex-wrap: wrap;
-    padding: 0;
-    height: 30rem;
-}
- h1{
-    color: white;
-}
-.lib-div {
-    margin: 0 20px;
-    height: 10rem;
-    width: 10rem;
-}
-.lib img {
+ 
     width: 100%;
-    border-radius: 50%;
+    
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.387); 
+}
+
+.lib img{
+    height: 250px;
+    width: 600px;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.mainlib{
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+.first{
+    width:900px;
+    height:200px;
+}
+h2{
+    margin-left: -1000px;
+}
+.second{
+    width:900px;
+    height:150px;
+    /* margin-bottom: -10px; */
+     padding: 20px 20px; 
+}
+.third{
+    width:900px;
+    height:140px;
+    /* padding: 20px; */
+}
+.imgdiv{
+     position: relative;
+}
+.imgdiv2{
+    position:absolute;
+    top:10px;
+    left:30px;
+}
+.imgdiv2 img{
+    width:20px;
+    height:20px;
+    
+}
+.imgdiv2 p{
+    font-size: small;
 }

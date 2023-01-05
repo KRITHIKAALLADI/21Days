@@ -6,7 +6,9 @@ import Header from './pages/Header';
 //  import Home from './pages/Home';
 import Img from './pages/Img/Img';
 import Background from './pages/Background'
-import Sportheader from './pages/Sportheader/Sportheader'
+import Subscriptions from './pages/Sport/Sport'
+import Themcolor from './Themcolor';
+
 
 //  import './App.css'
 
@@ -15,6 +17,7 @@ function App() {
   return (
     <>
     <div className="App">
+      <Themcolor>
     
     <BrowserRouter>
       <Header/>
@@ -27,10 +30,11 @@ function App() {
       <Route path='/Background' element={<Background/>}/>
       {/* <Route path='/Images' element={<App1/>}/> */}
       <Route path='/Img' element= {<Img/>}/>
-      <Route path='/Sportheader' element= {<Sportheader/>}/>
+      <Route path='/Sport' element= {<Subscriptions/>}/> 
 
     </Routes>
     </BrowserRouter>
+    </Themcolor>
      </div>
      
 </>
