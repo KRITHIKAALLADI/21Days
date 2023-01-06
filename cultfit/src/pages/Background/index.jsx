@@ -1,6 +1,5 @@
 import React from 'react'
 import './Background.css'
-// import button from './button';
 
 const Background = () => {
   return (
@@ -39,6 +38,7 @@ const Background = () => {
       </div>
       </div>
   </div>
+   <button className='but'>TRY FOR FREE</button>
     </div>
     
     </>

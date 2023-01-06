@@ -11,10 +11,6 @@ const Header = () => {
     <img className='toplogo' src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_120,q_auto:eco,dpr_2,f_auto,fl_progressive//image/test/brand-logo/vman-and-white-cult-text.png" alt=" " />
        
    <div classname="topnav">
-        {/* <a href="#FITNESS">FITNESS</a>
-      <a href="#CARE">CARE</a>
-      <a href="#MIND">MIND</a>
-      <a href="#STORE">STORE</a> */}
         <div className="name">
           <Link to="/Background" className="nav-item">FITNESS</Link>
           <Link to="/Img" className="nav-item">CARE</Link>
@@ -28,7 +24,6 @@ const Header = () => {
             <div className='loc'>
            <GoLocation size="1.5em" />
           </div>
-            {/* <input type="text" placeholder="GET APP" /> */}
             <button className='get'>GET APP</button>
           
           <div className='icon'>

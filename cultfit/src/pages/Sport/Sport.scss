@@ -1,0 +1,40 @@
+.mainlib{
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+&__first{
+    width:900px;
+    height:200px;
+}
+&__lib{
+    display: flex;
+ 
+    width: 100%;
+    
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.387); 
+    
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}

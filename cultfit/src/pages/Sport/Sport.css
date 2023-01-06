@@ -15,7 +15,7 @@
     width: 600px;
     padding: 10px;
     border-radius: 30px;
-}
+}  
 
 .mainlib{
     background-color: #fff;
@@ -58,4 +58,19 @@ h2{
 }
 .imgdiv2 p{
     font-size: small;
+}
+.put{
+    margin-left: 1000px;
+    /* margin-top: -100px; */
+    top:40%;
+    color:#e56cf0;
+    background-color: white;
+    border-width: 1.5px;
+    border-radius: 5px;
+    font-size: small;
+    font-weight: bold;
+
+}
+.put:hover{
+    color:black
 }
