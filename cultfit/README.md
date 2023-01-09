@@ -1,10 +1,14 @@
 #screenshots
-![image](https://user-images.githubusercontent.com/121103589/210986721-82fbe52d-5e54-443f-a89f-40b0cb2881ec.png)
 
+![image](https://user-images.githubusercontent.com/121103589/211023793-aad0fb74-51eb-4c00-bece-4d5ad285ef97.png)
 
+![image](https://user-images.githubusercontent.com/121103589/211245161-6fd37216-9011-4062-b206-35df828f8c77.png)
 
+![image](https://user-images.githubusercontent.com/121103589/211245313-1bc58f41-c9f8-4849-a778-892f9e314358.png)
 
+![image](https://user-images.githubusercontent.com/121103589/211245352-a0a78bb1-ade7-42f3-8409-55a0fe446b82.png)
 
+![image](https://user-images.githubusercontent.com/121103589/211245427-c0fe3c36-b367-4383-9777-191450dbbc73.png)
 
 # Getting Started with Create React App
 
